@@ -14,4 +14,4 @@ Uso:
 
 Não esqueça de nomear o APK para
 
-app.apk
+`app.apk`
