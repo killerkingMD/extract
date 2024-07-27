@@ -10,7 +10,7 @@ https://github.com/killerkingMD/extract.git`
 
 2° `cd extact`
 
-3 °python apk_info.py /caminho/do/arquivo/app.apk/
+3° `python apk_info.py /caminho/do/arquivo/app.apk/`
 
 4° enter
 ***
